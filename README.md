@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shubh Jain</h1>
-<h3 align="center">A passionate backend developer from- 
-  🔧 Java & Spring Boot Backend Developer -
-  ⚛️ Building Interactive UIs with React -
-  🔐 JWT Auth & Role-Based Access Control -
-  🛠️ REST APIs | MySQL | Secure Architectures -
-  🚀 Constantly Learning & Building Projects India</h3>
+<h3 align="center">A passionate backend developer from
+  - 🔧 Java & Spring Boot Backend Developer
+  - ⚛️ Building Interactive UIs with React
+  - 🔐 JWT Auth & Role-Based Access Control 
+  - 🛠️ REST APIs | MySQL | Secure Architectures
+  - 🚀 Constantly Learning & Building Projects India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/boy-is-sitting-desk-with-laptop-word-code-it_1177960-38395.jpg?semt=ais_items_boosted&w=740"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubh-stg&label=Profile%20views&color=0e75b6&style=flat" alt="shubh-stg" /> </p>
